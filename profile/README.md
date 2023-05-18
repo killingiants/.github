@@ -4,6 +4,6 @@ We design engaging digital products that people love to use.This repository serv
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, please feel free to contact us via (email)[charlottabade.pro@gmail.com] or on (linkedin)[].
+If you have any questions, feedback, or suggestions, please feel free to contact us via [email](charlottabade.pro@gmail.com) or on [linkedin]().
 
 Thank you for your interest in our organization! We look forward to collaborating with you.
